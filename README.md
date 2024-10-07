@@ -7,8 +7,13 @@
     <li>$ git clone URL</li>
 </ul>
 
-<h3>Connect databse to MSQL localhost database and apply this operations</h3>
+<h3>Connect database to MSQL localhost database and apply this operations</h3>
 <ul>
     <li>$ php artisan serve</li>
     <li>$ php artisan migration</li>
+</ul>
+
+if Ui is not working properly please run this commands 
+<ul>
+    <li>$ npm run dev && npm run build</li>
 </ul>
