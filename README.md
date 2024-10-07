@@ -2,7 +2,7 @@
 
 <br>
 
-<h2>Apply this commands </h2>
+<h2>Apply this commands Download the project in loaclsystem</h2>
 <ul>
     <li>$ git clone URL</li>
 </ul>
