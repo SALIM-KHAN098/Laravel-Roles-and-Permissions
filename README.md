@@ -13,7 +13,7 @@
     <li>$ php artisan migration</li>
 </ul>
 
-if Ui is not working properly please run this commands 
+If Ui is not work properly so please run this commands 
 <ul>
     <li>$ npm run dev && npm run build</li>
 </ul>
